@@ -1,0 +1,46 @@
+body {
+    background-color:rgba(206, 255, 191, 0.892);
+}
+
+h1{
+    text-align:center;
+    color:whitesmoke;
+    text-shadow: 2px 2px 5px rgb(5, 54, 5); 
+    font-family: "Times New Roman", Times, serif;
+ font-size:4vw;
+}
+
+h2{
+    text-align:center;
+     color:whitesmoke;
+    text-shadow: 2px 2px 5px rgb(5, 54, 5); 
+    font-family: "Times New Roman", Times, serif;
+    font-size:2vw;
+}
+
+p{
+    margin: 5%;
+    font-family: "Papyrus", fantasy;
+    text-indent: 70px;
+    letter-spacing: 2px;
+}
+
+.img1 {
+    margin: auto;
+  width:25%;
+}
+
+.botao {
+    background-color: #2E7D32;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.botao:hover {
+    background-color: #a3ffa8;
+    transform: scale(1.05);
+}
